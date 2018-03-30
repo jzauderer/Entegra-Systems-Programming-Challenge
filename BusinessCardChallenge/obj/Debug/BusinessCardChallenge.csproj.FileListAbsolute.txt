@@ -1,0 +1,5 @@
+C:\Users\Justin\RiderProjects\EntegraChallenge\BusinessCardChallenge\bin\Debug\BusinessCardChallenge.exe
+C:\Users\Justin\RiderProjects\EntegraChallenge\BusinessCardChallenge\bin\Debug\BusinessCardChallenge.pdb
+C:\Users\Justin\RiderProjects\EntegraChallenge\BusinessCardChallenge\obj\Debug\BusinessCardChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Justin\RiderProjects\EntegraChallenge\BusinessCardChallenge\obj\Debug\BusinessCardChallenge.exe
+C:\Users\Justin\RiderProjects\EntegraChallenge\BusinessCardChallenge\obj\Debug\BusinessCardChallenge.pdb
